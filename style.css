@@ -103,11 +103,13 @@ ul {
 
 .part3img,
 .part2img,
-.part1img,
-#part0img {
+.part1img {
     width: 25vw;
 }
 
+#part0img {
+    width: 35vw;
+}
 #part1text,
 #part3text,
 #portfolio-text-1 {
