@@ -103,7 +103,8 @@ ul {
 
 .part3img,
 .part2img,
-.part1img {
+.part1img,
+#part0img {
     width: 25vw;
 }
 
@@ -116,7 +117,8 @@ ul {
 }
 
 #part2text,
-#portfolio-text-2 {
+#portfolio-text-2,
+#part0text {
     margin-top: 5rem;
     margin-left: 5rem;
     width: 45vw;
