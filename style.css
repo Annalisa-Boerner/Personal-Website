@@ -153,7 +153,7 @@ ul {
     #portfolio,
     .flexy {
         display: block;
-        background-color: rgb(158, 158, 241);
+
         padding: 0;
         margin: 0;
         gap: 0;
@@ -169,7 +169,8 @@ ul {
         margin: auto;
     }
 
-    #aboutImg2 {
+    #aboutImg2,
+    #portfolio1img {
         padding-bottom: 2rem;
         margin: auto;
     }
@@ -188,6 +189,20 @@ ul {
         line-height: 1.4;
         margin: auto;
     }
+    #aboutImg3,
+    #aboutImg2,
+    #aboutImg1,
+    #aboutImg0 {
+        padding-left: 2rem;
+    }
+
+    #portfolio1img,
+    #portfolio2img,
+    #portfolio3img {
+        width: 90vw;
+        padding-left: 1rem;
+        margin: 0;
+    }
 
     #headerName {
         font-size: 1.5rem;
@@ -197,7 +212,9 @@ ul {
         font-size: 2rem;
         display: block;
         margin: auto;
+        padding-top: 2rem;
     }
+
     a {
         display: block;
         font-size: 1rem;
@@ -205,7 +222,6 @@ ul {
 
     footer {
         display: flex;
-        background-color: aquamarine;
         width: 100vw;
     }
 }
