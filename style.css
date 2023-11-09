@@ -161,20 +161,17 @@ ul {
     #about-me {
         margin: 0;
     }
-    #aboutImg3,
-    #aboutImg2,
-    #aboutImg1 {
-        width: 80vw;
-    }
 
     #aboutImg0 {
         width: 80vw;
         height: 40vw;
-        margin-bottom: 2rem;
+        padding-bottom: 2rem;
+        margin: auto;
     }
 
     #aboutImg2 {
-        margin-bottom: 2rem;
+        padding-bottom: 2rem;
+        margin: auto;
     }
 
     #aboutText0,
@@ -183,7 +180,10 @@ ul {
     #aboutText3,
     #portfolio-text-1,
     #portfolio-text-2,
-    #part2title {
+    #part2title,
+    #aboutImg3,
+    #aboutImg2,
+    #aboutImg1 {
         width: 80vw;
         line-height: 1.4;
         margin: auto;
@@ -195,8 +195,8 @@ ul {
     #aboutTitle,
     #portfolioTitle {
         font-size: 2rem;
-        display: flex;
-        justify-content: center;
+        display: block;
+        margin: auto;
     }
     a {
         display: block;
