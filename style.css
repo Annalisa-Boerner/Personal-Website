@@ -116,19 +116,19 @@ ul {
 #portfolio-text-1 {
     width: 50vw;
     line-height: 1.4;
-    /* margin-left: 3rem; */
+    margin-left: 3rem;
 }
 
 #aboutText2,
 #portfolio-text-2,
 #aboutText0 {
     margin-top: 5rem;
-    /* margin-left: 5rem; */
+    margin-left: 5rem;
     width: 45vw;
     line-height: 1.4;
 }
 #about-me {
-    /* margin: 5rem; */
+    margin: 5rem;
 }
 
 #home-page-text {
@@ -153,12 +153,14 @@ ul {
     #portfolio,
     .flexy {
         display: block;
-        background-color: blue;
+        background-color: rgb(158, 158, 241);
         padding: 0;
         margin: 0;
         gap: 0;
     }
-
+    #about-me {
+        margin: 0;
+    }
     #aboutImg3,
     #aboutImg2,
     #aboutImg1 {
@@ -184,7 +186,7 @@ ul {
     #part2title {
         width: 70vw;
         line-height: 1.4;
-        padding-right: 0.5rem;
+        margin: 0;
     }
 
     #headerName {
@@ -193,10 +195,16 @@ ul {
     #aboutTitle,
     #portfolioTitle {
         font-size: 2rem;
-        display: block;
+        display: flex;
+        justify-content: center;
     }
     a {
         display: block;
         font-size: 1rem;
+    }
+
+    footer {
+        display: flex;
+        background-color: aquamarine;
     }
 }
