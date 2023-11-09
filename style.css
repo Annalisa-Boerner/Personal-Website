@@ -184,9 +184,9 @@ ul {
     #portfolio-text-1,
     #portfolio-text-2,
     #part2title {
-        width: 70vw;
+        width: 80vw;
         line-height: 1.4;
-        margin: 0;
+        margin: auto;
     }
 
     #headerName {
@@ -206,5 +206,6 @@ ul {
     footer {
         display: flex;
         background-color: aquamarine;
+        width: 100vw;
     }
 }
