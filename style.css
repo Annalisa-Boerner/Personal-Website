@@ -116,19 +116,19 @@ ul {
 #portfolio-text-1 {
     width: 50vw;
     line-height: 1.4;
-    margin-left: 3rem;
+    /* margin-left: 3rem; */
 }
 
 #aboutText2,
 #portfolio-text-2,
 #aboutText0 {
     margin-top: 5rem;
-    margin-left: 5rem;
+    /* margin-left: 5rem; */
     width: 45vw;
     line-height: 1.4;
 }
 #about-me {
-    margin: 5rem;
+    /* margin: 5rem; */
 }
 
 #home-page-text {
