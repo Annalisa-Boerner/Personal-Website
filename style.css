@@ -175,26 +175,16 @@ ul {
         margin-bottom: 2rem;
     }
 
+    #aboutText0,
     #aboutText1,
+    #aboutText2,
     #aboutText3,
     #portfolio-text-1,
+    #portfolio-text-2,
     #part2title {
         width: 70vw;
         line-height: 1.4;
         padding-right: 0.5rem;
-    }
-
-    #aboutText2,
-    #portfolio-text-2,
-    #aboutText0 {
-        margin-top: 0;
-        margin-left: 0;
-        width: 70vw;
-        line-height: 1.4;
-        padding-right: 0.5rem;
-    }
-    #about-me {
-        margin: 5rem;
     }
 
     h2,
