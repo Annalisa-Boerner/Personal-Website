@@ -150,7 +150,8 @@ ul {
 
 @media screen and (max-width: 568px) {
     #about-me,
-    #portfolio {
+    #portfolio,
+    .flexy {
         display: block;
         background-color: blue;
         padding: 0;
