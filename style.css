@@ -147,3 +147,10 @@ ul {
     margin-top: 5rem;
     margin-right: 10rem;
 }
+
+@media screen and (max-width: 568px) {
+    #about-me,
+    #portfolio {
+        display: block;
+    }
+}
