@@ -187,8 +187,13 @@ ul {
         padding-right: 0.5rem;
     }
 
-    h2 {
+    #headerName {
+        font-size: 1.5rem;
+    }
+    #aboutTitle,
+    #portfolioTitle {
         font-size: 2rem;
+        display: block;
     }
     a {
         display: block;
