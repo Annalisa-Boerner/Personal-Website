@@ -164,6 +164,9 @@ ul {
         gap: 0;
     }
 
+    #titleLink {
+        font-size: 1rem;
+    }
     #homePagePic {
         width: 100vw;
         border-bottom: 1px solid black;
