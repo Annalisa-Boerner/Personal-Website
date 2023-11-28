@@ -101,6 +101,8 @@ ul {
     align-items: center;
 }
 
+/* Formatting on other pages */
+
 #aboutImg3,
 #aboutImg2,
 #aboutImg1 {
@@ -142,7 +144,9 @@ ul {
     margin-top: 5rem;
 }
 
-#portfolio1img {
+#portfolio1img,
+#portfolio2img,
+#portfolio3img {
     width: 40vw;
     margin-top: 5rem;
     margin-right: 10rem;
