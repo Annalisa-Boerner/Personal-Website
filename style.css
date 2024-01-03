@@ -48,6 +48,7 @@ a {
     color: #385163;
     font-size: 2rem;
 }
+
 h1 {
     font-weight: lighter;
     font-size: larger;
@@ -113,6 +114,7 @@ ul {
     width: 35vw;
     height: 30vw;
 }
+
 #aboutText1,
 #aboutText3,
 #portfolio-text-1 {
@@ -129,6 +131,7 @@ ul {
     width: 45vw;
     line-height: 1.4;
 }
+
 #about-me {
     margin: 5rem;
 }
@@ -152,7 +155,12 @@ ul {
     margin-right: 10rem;
 }
 
+.footerText {
+    font-size: 1rem;
+}
+
 @media screen and (max-width: 568px) {
+
     #about-me,
     #portfolio,
     #homePage,
@@ -167,10 +175,12 @@ ul {
     .titleLink {
         font-size: 1.5rem;
     }
+
     #homePagePic {
         width: 100vw;
         border-bottom: 1px solid black;
     }
+
     #about-me {
         margin: 0;
     }
@@ -202,6 +212,7 @@ ul {
         line-height: 1.4;
         margin: auto;
     }
+
     #aboutImg3,
     #aboutImg2,
     #aboutImg1,
@@ -220,6 +231,7 @@ ul {
     #headerName {
         font-size: 1.5rem;
     }
+
     #aboutTitle,
     #portfolioTitle,
     #homePageTitle {
