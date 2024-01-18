@@ -126,6 +126,7 @@ ul {
 
 #aboutText2,
 #portfolio-text-2,
+#portfolio-text-0,
 #aboutText0 {
     margin-top: 5rem;
     margin-left: 5rem;
@@ -150,7 +151,8 @@ ul {
 
 #portfolio1img,
 #portfolio2img,
-#portfolio3img {
+#portfolio3img,
+#portfolio0img {
     width: 40vw;
     margin-top: 5rem;
     margin-right: 10rem;
@@ -205,6 +207,7 @@ ul {
     #aboutText3,
     #portfolio-text-1,
     #portfolio-text-2,
+    #portfolio-text-0,
     #part2title,
     #aboutImg3,
     #aboutImg2,
@@ -223,7 +226,8 @@ ul {
 
     #portfolio1img,
     #portfolio2img,
-    #portfolio3img {
+    #portfolio3img,
+    #portfolio0img {
         width: 90vw;
         padding-left: 1rem;
         margin: 0;
