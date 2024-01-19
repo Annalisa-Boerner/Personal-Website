@@ -15,6 +15,9 @@ header {
     margin-right: 1rem;
 }
 
+.header-link {
+    font-size: 1.5rem;
+}
 
 /* footer stuff  */
 
@@ -149,13 +152,21 @@ ul {
     margin-top: 5rem;
 }
 
-#portfolio1img,
-#portfolio2img,
-#portfolio3img,
-#portfolio0img {
+#portfolio1img {
     width: 40vw;
     margin-top: 5rem;
     margin-right: 10rem;
+}
+
+#portfolio2img {
+    width: 40vw;
+    margin-top: 5rem;
+    margin-left: 10rem;
+}
+
+#portfolio0img {
+    width: 40vw;
+    margin-left: 10rem;
 }
 
 .footerText {
@@ -233,9 +244,20 @@ ul {
         margin: 0;
     }
 
+    #portfolio0img {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    #portfolio2img {
+        padding-bottom: 1rem;
+    }
+
     #headerName {
         font-size: 1.5rem;
     }
+
+
 
     #aboutTitle,
     #portfolioTitle,
